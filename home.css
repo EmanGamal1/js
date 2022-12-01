@@ -46,7 +46,10 @@
     border-radius: 5px;
     font-weight: bold;
     font-size: 18px;
-    cursor:pointer;
+    cursor: pointer;
+}
+.btn2{
+    color: #fac1be;
 }
 .team{
     border-radius: 50%;
@@ -69,5 +72,5 @@
     margin-right: 25px;
     margin-left: 25px;
     color: #fac1be;
-    cursor:pointer;
+    cursor: pointer;
 }
