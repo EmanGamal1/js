@@ -1,7 +1,7 @@
 //button
     const btn = document.getElementById('btn');
     btn.addEventListener('click', function onClick(event) {
-      event.target.style.backgroundColor = '#fac1be';
+      event.target.classList.toggle('btn2');
     });
     //end of button
   //slideshow
